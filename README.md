@@ -6,4 +6,4 @@ A project that will translate a sign language video to text
 - https://www.kaggle.com/datamunge/sign-language-mnist (We have images for all the sign language letter here)
 - https://www.kaggle.com/ashish8898/sign-language-recognition
 - https://www.ijert.org/research/sign-language-to-text-and-speech-translation-in-real-time-using-convolutional-neural-network-IJERTCONV8IS15042.pdf
-- https://www.youtube.com/watch?v=pDXdlXlaCco
+- https://www.youtube.com/watch?v=pDXdlXlaCco (refer for data creation)
