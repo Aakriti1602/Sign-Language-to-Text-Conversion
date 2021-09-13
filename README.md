@@ -7,4 +7,4 @@ A project that will translate a sign language video to text
 - https://www.kaggle.com/ashish8898/sign-language-recognition
 - https://www.ijert.org/research/sign-language-to-text-and-speech-translation-in-real-time-using-convolutional-neural-network-IJERTCONV8IS15042.pdf
 - https://www.youtube.com/watch?v=pDXdlXlaCco (refer for data creation)
-- https://www.handspeak.com/word/most-used/ (100 common sign languages)
+- https://www.handspeak.com/word/most-used/ (100 common sign languages) (if a particular word/phrase is a combination of 2 or more signs please refrain from collecting its image)
