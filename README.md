@@ -10,3 +10,4 @@ A project that will translate a sign language video to text
 - https://www.ijert.org/research/sign-language-to-text-and-speech-translation-in-real-time-using-convolutional-neural-network-IJERTCONV8IS15042.pdf
 - https://www.youtube.com/watch?v=pDXdlXlaCco (refer for data creation)
 - https://www.handspeak.com/word/most-used/ (100 common sign languages)
+- https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/
