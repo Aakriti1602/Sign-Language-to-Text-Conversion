@@ -1,13 +1,46 @@
-# Sign-Language-to-Text-Conversion
-A project that will translate a sign language video to text 
 
-## Dataset Used - https://www.kaggle.com/datamunge/sign-language-mnist
+# Sign Language To Text Conversion
 
-## Useful links to refer:
-- https://www.ripublication.com/ijaer18/ijaerv13n9_90.pdf
-- https://www.kaggle.com/datamunge/sign-language-mnist (We have images for all the sign language letter here)
-- https://www.kaggle.com/ashish8898/sign-language-recognition
-- https://www.ijert.org/research/sign-language-to-text-and-speech-translation-in-real-time-using-convolutional-neural-network-IJERTCONV8IS15042.pdf
-- https://www.youtube.com/watch?v=pDXdlXlaCco (refer for data creation)
-- https://www.handspeak.com/word/most-used/ (100 common sign languages)
-- https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/
+Sign Language Text Conversion is a CNN-Model based on Keras and Tensorflow. It is a model which converts ASL (American Sign Language) sign alphabet's image to text. 
+
+## Used By
+
+- People who are trying to communicate to a person who is suffering from hearing or speech impairment.
+- People who are willing to learn the American Sign Language.
+
+  
+## Deployment
+
+- Clone the repository
+
+```bash
+  git clone https://github.com/Aakriti1602/Sign-Language-to-Text-Conversion.git
+```
+
+- Enter the directory
+
+```bash
+  cd Sign-Language-To-Text-Conversion
+```
+
+- Setup the enviornment with dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+- Run the Jupyter Notebook
+
+```bash
+  jupyter-Notebook
+```
+
+- Terminate the Jupyter Notebook
+
+```bash
+  Ctrl+C
+```
+
+
+
+  
